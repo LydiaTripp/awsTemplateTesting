@@ -1,6 +1,6 @@
 global:
   owner: lydia.tripp@gmail.com
-  qsname: sample-taskcat-project
+  qsname: awsTemplateTesting
   regions:
     - us-east-1
 tests:
