@@ -1,0 +1,6 @@
+global:
+  regions:
+    - us-east-1
+tests:
+  public:
+    template_file: lydia.yaml
