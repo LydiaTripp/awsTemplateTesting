@@ -1,0 +1,11 @@
+global:
+  owner: lydia.tripp@gmail.com
+  qsname: sample-taskcat-project
+  regions:
+    - us-east-1
+tests:
+  taskcat-json:
+    parameter_input: debug-input.json
+    regions:
+      - us-east-1
+    template_file: lydia.yaml
